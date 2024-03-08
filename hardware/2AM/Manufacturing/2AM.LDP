@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\dev\Guitar Pedals\2AM\hardware\2AM\2AM.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=2am.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=2am-rectholes.txt|DrillLayers=gtl,gbl

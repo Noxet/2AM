@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 2AM.PcbDoc   2024-03-08  19:21:19
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 2AM.TXT
+ASCII RectHoles File : 2AM-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             11        PTH        4.10inch (104.12mm)
+T2      32mil (0.8mm)                                             Round             6         PTH        1.53inch (38.74mm)
+T3      35mil (0.899mm)                                           Round             6         PTH        1.92inch (48.72mm)
+T4      39mil (1.001mm)                                           Round             12        PTH        6.13inch (155.58mm)
+T5      43mil (1.1mm)                                             Round             9         PTH        2.88inch (73.04mm)
+T6      47mil (1.199mm)                                           Rectangle         6         PTH        5.22inch (132.66mm)
+T7      63mil (1.6mm)                                             Round             3         PTH        0.56inch (14.10mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              53
+
+Total Processing Time (hh:mm:ss) : 00:00:00
